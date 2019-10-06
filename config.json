@@ -1,4 +1,4 @@
 {
-    "GCLOUD_PROJECT": "[YOUR_PROJECT_ID]",
-    "DATA_BACKEND": "datastore"
+    "secret": "LUf0Ga0dUlHB3rkQqQCtBhuyVeYFqM0lfnhJ8UbtSANSvb1xLoZIjuujce9Jvw9sCwkIx5Pu3zWOncPEW9at+F2Tocf6Nh6bRTra0PoVIAA/Gi6fiekblvSFLsrj4XHnor+Yw2CIXYdxX/UBe3Cl9iWU29bAcfkWEGiXIsv1CknaOt9LD8ZieKUVctz/HsDSzChSFBFpDQ8A1+N44EdvGHh0Kts7Jk5pWfIpCSAYivrvIReQdxl3e8gv2umS3Qhp3ED7LTjoTFkH+DuEaGlNky3STg4GG9n/QEYhvhw5GUrJJC9IKm3q++StOglOvtF2WAdAWEJ8uF90wuELYw/qBA==",
+    "connectionString": "mongodb://127.0.0.1:27017/clients_manager_db"
 }
